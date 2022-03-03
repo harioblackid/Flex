@@ -30,6 +30,8 @@
     }
   }
 
+  
+
   /**
    * Easy on scroll event listener 
    */
@@ -37,6 +39,8 @@
     el.addEventListener('scroll', listener)
   }
 
+
+  
   /**
    * Navbar links active state on scroll
    */
@@ -285,5 +289,7 @@
   window.addEventListener('load', () => {
     aos_init();
   });
+
+  
 
 })();
