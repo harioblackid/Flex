@@ -599,32 +599,6 @@ section {
 .services .service-box.red:hover {
   background: #e9222c;
 }
-.services .service-box.purple {
-  border-bottom: 3px solid #b50edf;
-}
-.services .service-box.purple .icon {
-  color: #b50edf;
-  background: #f8e4fd;
-}
-.services .service-box.purple .read-more {
-  color: #b50edf;
-}
-.services .service-box.purple:hover {
-  background: #b50edf;
-}
-.services .service-box.pink {
-  border-bottom: 3px solid #f51f9c;
-}
-.services .service-box.pink .icon {
-  color: #f51f9c;
-  background: #feecf7;
-}
-.services .service-box.pink .read-more {
-  color: #f51f9c;
-}
-.services .service-box.pink:hover {
-  background: #f51f9c;
-}
 .services .service-box:hover h3, .services .service-box:hover p, .services .service-box:hover .read-more {
   color: #fff;
 }
